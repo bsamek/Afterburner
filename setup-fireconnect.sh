@@ -123,6 +123,11 @@ const MODELS = [
     description: "👀 Fireworks: cached $0.30  · in  $3    · out $15",
   },
   {
+    model: "minimax-m3p1-flash[1m]",
+    label: "[EXP] MiniMax M3.1 Flash",
+    description: "👀 Fireworks: cached $0.015 · in  $0.15 · out $0.60",
+  },
+  {
     model: "ember-1[1m]",
     label: "[EXP] Ember (FW fine-tuned K3)",
     description: "👀 Fireworks: cached $0.30  · in  $3    · out $15",
